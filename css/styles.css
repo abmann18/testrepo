@@ -1,0 +1,49 @@
+body{
+	width: 100%;
+	margin: 0 auto;
+	background-image: url(../images/page01image02.jpg)
+}
+ul.nav{
+	list-style: none;
+	padding: 0; 
+	font-family: helvetica;
+}
+ul.nav li{
+	display: inline; 
+	padding: 25px;
+}
+ul.nav a{
+	text-decoration: none;
+	color: green;
+}
+#yellowbutton{
+	color: blue;
+	border-radius: 4px;
+	width: 100px;
+	height: 43px;
+	background-color: yellow;
+	font-family: helvetica;
+	font-size: 1em;
+}
+input{
+	padding: 10px;
+	font-size: 1em;
+	font-family: helvetica;
+}
+#leftbutton{
+	float: left;
+	padding-left: 20px;
+}
+#bluebutton{
+	color: white;
+	border-radius: 4px;
+	width: 100px;
+	height: 43px;
+	background-color: blue;
+	font-family: helvetica;
+	font-size: 1em;
+}
+#rightbutton{
+	float: left;
+	padding-left: 20px;
+}
